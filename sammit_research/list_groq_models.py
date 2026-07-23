@@ -1,8 +1,7 @@
 import os
 from groq import Groq
 
-# Initialize the Groq Client
-os.environ["GROQ_API_KEY"] = "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"
+# Initialize the Groq Client (uses GROQ_API_KEY from environment)
 client = Groq()
 
 # Free tier rate limits for Groq (as of 2026)
