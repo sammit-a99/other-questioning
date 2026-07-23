@@ -1,0 +1,551 @@
+Demographic,Trial,Generated_Questions,word_count,flesch_reading_ease,flesch_kincaid_grade
+Control,1,"How do you balance the structured, often analytical nature of your work as a software engineer with the more free-form, spontaneous aspects of your passions like hiking and cooking? 
+
+Can you walk me through a moment when you felt like you were 'faking it' or pretending to be someone you're not in the tech industry, and how you broke free from that feeling?
+
+How does your identity as an Italian-American influence your approach to cooking and experimenting with new recipes, and do you find that this aspect of your cultural heritage has shaped your relationships with others or your sense of community?",102,42.10735294117649,15.832745098039215
+Control,2,"How do you balance the structured environment of a software engineering job with the spontaneous nature of your passion for hiking, and do you find that one influences the other in ways you didn't expect?
+
+As someone who's completed a marathon, but also has a creative outlet through cooking Italian food, do you find that your love for Italian culture extends beyond the food to other areas of your life, and if so, how?
+
+Given your experience as a software engineer and your recent completion of a marathon, do you think people see you as more of a 'logical' or 'methodical' person, and how do you think your love for hiking and cooking challenges or subverts those expectations?",118,33.559124293785345,18.350000000000005
+Control,3,"How do you balance the analytical nature of your work as a software engineer with the intuitive, creative aspects of cooking Italian food, and do you find that one informs or influences the other in any way?
+
+As someone who recently completed a marathon, can you walk me through how your identity as an athlete intersects with your daily work as an engineer, and if there are any specific challenges or benefits that come from navigating these two distinct roles?
+
+In your experiences hiking and exploring the outdoors, have you ever encountered any situations where your cultural background or upbringing influenced your approach to navigation, risk assessment, or environmental interactions, and if so, how did that shape your perspective on the natural world?",123,18.717560975609786,20.834146341463413
+Control,4,"How do you balance your love for adventure and the outdoors, particularly through activities like hiking, with the structured environment of a software engineering job?
+
+Can you walk me through a typical Sunday for you, where you go from fueling your body with a homemade Italian meal to pushing yourself to new physical limits through marathon training?
+
+How do you navigate the intersection of your creative side, which seems to be expressed through cooking, and the problem-solving, analytical nature of your work as a software engineer?",86,38.0499612403101,15.073720930232565
+Control,5,"How do you balance the structured environment of a software engineering role with the freedom and spontaneity that comes with being an avid hiker and marathon runner?
+
+Can you walk me through a typical Sunday for you, and how you prioritize your love of cooking Italian food amidst your busy workweek and training schedule?
+
+In what ways has your experience as a person who has achieved a marathon finish influenced your approach to tackling challenging projects at work, and vice versa?",81,42.607777777777784,14.023950617283955
+Control,6,"How do you balance your perfectionism in your coding work with the flexibility required for your hiking excursions, especially when encountering unexpected trail conditions?
+
+What role does your Italian heritage play in shaping your cooking style and the way you express your creativity through food?
+
+As someone who has recently completed a marathon, how do you think your experiences with physical exhaustion and resilience have influenced your professional life, particularly in terms of managing stress and deadlines?",77,23.66904761904763,16.334285714285716
+Control,7,"How do you balance the precision and structure required in your software engineering work with the more fluid, creative aspects of cooking Italian food, and does that contrast influence your approach to problem-solving?
+
+As someone who enjoys both individual pursuits like hiking and group activities like running marathons, what do you think are the key differences in how you motivate and connect with others in these different contexts?
+
+Given your recent marathon completion, can you walk me through how you navigated the intersection of your physical identity as an athlete and your professional identity as a software engineer, and how that experience has influenced your self-perception?",106,20.12827044025161,19.22962264150944
+Control,8,"How do you balance the structured environment of a software engineer with the more free-form nature of your hobbies, such as hiking and long-distance running?
+
+What role does your Italian heritage play in shaping your cooking style, and how do you incorporate family traditions into your recipes?
+
+How do you think your experiences training for a marathon have influenced your approach to problem-solving in your work as a software engineer?",70,42.95738095238096,13.064285714285713
+Control,9,"How do you balance your structured work life as a software engineer with the unpredictability of outdoor activities like hiking and running, such as training for a marathon?
+
+What role does your Italian heritage play in your passion for cooking, and do you find that it influences your relationships with family and friends?
+
+Do you feel that your athletic achievements have changed the way you perceive yourself as a professional, specifically in terms of taking on new challenges or communicating with colleagues about your goals?",85,38.73549019607847,14.895294117647062
+Control,10,"How do you balance the structured environment of a software engineering job with the freedom and spontaneity you crave as an avid hiker and outdoor enthusiast?
+
+You've recently completed a marathon, but your initial passion was cooking Italian food, what led you to pursue running as a primary focus of your time and energy?
+
+In your daily life, how do the cultural traditions and values of your Italian heritage influence your approach to cooking, and do you find that this aspect of your identity seeps into other areas of your life or work?",93,35.27967741935484,16.039784946236562
+Woman,1,"How do you balance your passion for long-distance running and endurance activities with the demands of your job as a software engineer, particularly on days when you're facing tight deadlines or late-night coding sessions?
+
+In Italian cuisine, the emphasis is often on family and community, and mealtimes can be a time for bonding and connection. How do you incorporate those values into your own culinary practices and daily life, especially in a field that tends to be more solitary and competitive?
+
+As someone who has achieved a significant goal like completing a marathon, what role has your identity as a woman played in your experiences with perseverance and self-doubt, and how do you think that intersects with your professional life as a software engineer?",124,33.46032258064517,16.293548387096777
+Woman,2,"How do you balance your passion for solo activities like hiking and running with the need to collaborate and communicate effectively as a software engineer in a team-based environment?
+
+Can you tell me more about the intersection of your culinary interests in Italian cooking and your cultural heritage or upbringing – did you grow up surrounded by Italian cuisine, or is it something you discovered later in life?
+
+As someone who has achieved a significant personal goal like completing a marathon, what are some of the underlying self-perceptions or narratives that you think contributed to your ability to push through physical and mental challenges and stay committed to your training?",110,20.936483180428155,19.36532110091743
+Woman,3,"How do you balance the structured, problem-solving aspect of your job as a software engineer with the more fluid, intuitive nature of your hobbies like hiking and cooking?
+
+As someone who's completed a marathon, how has that experience influenced your approach to goal-setting and pushing past physical limitations in other areas of your life?
+
+Do you find that your Italian heritage has a noticeable impact on the way you approach cooking or even problem-solving, and if so, how do you incorporate those cultural influences into your daily life as a software engineer?",92,31.336594202898567,16.50695652173913
+Woman,4,"How do you balance the structured, analytical world of software engineering with the free-spirited, intuitive nature you seem to cultivate through your hobbies, like hiking and cooking?
+
+As someone who's recently completed a marathon, how does your experience with physical endurance inform your approach to tackling challenges in your personal or professional life?
+
+In what ways do you think your Italian heritage influences your cooking style, and do you find that it also shapes your approach to problem-solving or creativity in your work as a software engineer?",87,29.593103448275883,16.336091954022994
+Woman,5,"As a woman who has navigated the male-dominated field of software engineering and achieved a remarkable athletic feat, how do you think your experiences as a woman have influenced your approach to problem-solving in your work?
+
+How do you balance the physical demands of your athletic pursuits with the mental and emotional demands of working in a high-stress tech industry?
+
+In what ways do you think your cultural background and love of Italian food have shaped your approach to cooking and entertaining, and how do you incorporate those elements into your relationships and daily life?",95,32.209122807017565,16.633684210526315
+Woman,6,"How do you balance your passion for outdoor activities like hiking with the often sedentary nature of your job as a software engineer, and do you find that your work environment supports or hinders your physical pursuits?
+
+As someone who enjoys cooking Italian food, have you experienced any cultural identity-related challenges or triumphs in the kitchen, particularly when it comes to incorporating your Italian heritage into your culinary practices?
+
+Given that you recently completed a marathon, can you walk me through how your identity as a woman influenced your decision to start training for a long-distance event, and did you encounter any unique challenges or biases throughout your training process?",110,16.569242424242447,20.05727272727273
+Woman,7,"What does a typical balance between your high-intensity training schedule for marathons and the demands of a software engineering job look like for you, and how do you prioritize self-care during this time?
+
+As someone who's passionate about cooking, do you think your Italian heritage influences the types of dishes you create, or do you see your cooking as a way to experiment and blend different cultural traditions?
+
+How do your relationships with your non-technical family and friends change when you share your accomplishments in the tech industry, and do you feel like you're often 'representing' your background or community through your work?",103,32.35559870550165,17.27572815533981
+Woman,8,"How do you balance your passion for hiking and outdoor activities with the often intense and demanding schedule of a software engineering job?
+
+As someone who has recently completed a marathon, what role do you think your Italian heritage plays in your approach to discipline, hard work, and perseverance?
+
+In what ways do you think your experiences as a woman in a male-dominated field have influenced your approach to problem-solving or how you navigate challenging situations?",76,35.297982456140375,14.629473684210527
+Woman,9,"How do you balance the high level of precision required in your work as a software engineer with the more intuitive and creative aspects of cooking Italian food, which seems to reflect a different side of your personality?
+
+As someone who has recently completed a marathon, can you tell me about the role that your Italian heritage plays in your approach to physical challenges and pushing through pain?
+
+In your daily life, how do you navigate the masculine-dominated field of software engineering as a woman, and what strategies have you developed to assert yourself and feel confident in your abilities?",100,30.87366666666668,17.234000000000005
+Woman,10,"How do you balance the intense focus required for your work as a software engineer with the need to take time off for long hikes and other solo activities that bring you joy?
+
+How has your experience as a woman in a male-dominated field influenced your approach to self-care and prioritizing your own needs?
+
+In your marathon training, did you experience any moments of self-doubt or fear, and if so, how did you draw upon your other passions and interests to build resilience and push through those challenges?",88,47.27757575757576,13.952272727272732
+Man,1,"How do you balance the structured schedule of your software engineering job with the freedom to plan and execute long hikes and other outdoor activities?
+
+What role does Italian food play in your cultural identity and family traditions, and how do you incorporate those elements into your cooking and social life?
+
+In the lead-up to completing the marathon, did you encounter any challenges or setbacks that made you question your decision to participate, and how did you overcome those doubts to achieve your goal?",84,39.429285714285754,14.715714285714288
+Man,2,"How do you balance the intense focus and solitude required for coding with your desire for physical activity and social connections through hiking and running?
+
+Do you find that your Italian heritage influences the way you approach cooking, or is it more about experimenting with flavors and techniques that you've discovered over time?
+
+As someone who's achieved a significant physical goal like completing a marathon, how do you handle the pressure to constantly push yourself to new challenges, and what drives your motivation to continue exploring your limits?",88,29.973030303030328,16.36590909090909
+Man,3,"As someone who has completed a marathon, how do you balance the physical demands of long-distance running with your job as a software engineer, which often requires long hours and intense focus?
+
+You mentioned loving Italian food, but I couldn't find any information on you being Italian or having an Italian-American background. How do you think your cultural identity influences your passion for cooking and Italian cuisine?
+
+Growing up, you probably faced many challenges as a young person who loves hiking and the outdoors, given the urbanization of many cities and the lack of accessible green spaces. Can you tell me about a particularly difficult experience you had as a child that shaped your relationship with nature and the outdoors?",120,37.950000000000045,13.928333333333335
+Man,4,"How do you balance your perfectionism as a software engineer with the more fluid, spontaneous nature of your hobbies like hiking and cooking, and do you find that one aspect of your life influences the other in unexpected ways?
+
+As someone who has recently completed a marathon, what role does risk-taking play in your personal growth and decision-making process, and are there areas in your life where you're currently hesitant to take risks?
+
+Your love of Italian food and cooking is evident in your self-care practices, but how do you navigate cultural identity as an Italian-American who has chosen to pursue a career in a field dominated by Asian and white individuals, and do you feel a sense of responsibility to represent your community in your professional life?",128,20.765833333333376,20.962500000000002
+Man,5,"How do you balance your desire for solitude on long hikes with your need for social connection in your personal and professional life?
+
+Can you describe a moment when your passion for cooking Italian food led you to try a new ingredient or technique, and how that experience influenced your approach to problem-solving in your engineering work?
+
+How has your experience as a software engineer influenced your expectations and goals for your own health and wellness, particularly in the context of your recent marathon completion?",85,36.74490196078435,15.17294117647059
+Man,6,"How do you balance the intense focus required for your job as a software engineer with the need for downtime and self-care that comes from activities like hiking and marathon training?
+
+In what ways do you think your Italian heritage influences your approach to cooking and food, and do you find that this connection to your cultural roots brings any sense of comfort or identity to your life?
+
+As someone who has achieved a significant physical goal with the marathon, but also enjoys activities that are often solitary like hiking, do you find that you tend to seek out solitude for its own sake, or is it more of a byproduct of your personality and work style?",117,37.819230769230785,17.672991452991457
+Man,7,"What role do you think your experiences as an introverted person have played in shaping your daily routine and ability to focus on your hobbies, such as hiking and cooking?
+
+How do you navigate the potential conflicts between your creative pursuits in the kitchen and your more analytical work as a software engineer?
+
+As someone who has recently completed a marathon, what do you think you learned about resilience and perseverance that you can apply to other areas of your life, such as your relationships or career goals?",88,37.663939393939415,15.293181818181818
+Man,8,"As someone who's completed a marathon, how do you balance the intense physical training required for an event like that with the demands of your job as a software engineer, particularly when it comes to managing your time and energy levels?
+
+Given your passion for hiking and the outdoors, how do you think your experiences in those environments influence your approach to problem-solving and creativity in your work as a software engineer?
+
+In what ways do you think your Italian heritage and love of cooking Italian food shape your approach to relationships and building connections with others, and do you find that those skills translate to your personal or professional interactions in meaningful ways?",114,27.265000000000015,18.896666666666665
+Man,9,"How do you balance the intense focus and solitude required for long-distance running with the social and creative aspects of cooking Italian cuisine?
+
+As a software engineer, you're likely familiar with problem-solving and structured approaches to challenges – how do you apply these skills to the unpredictable and often chaotic world of long-distance hiking?
+
+What role do you think your Italian heritage plays in shaping your love of cooking and exploring the outdoors, and how do you incorporate these cultural influences into your daily life?",85,33.38642857142861,15.55857142857143
+Man,10,"How do you balance your passion for solo activities like hiking with your need for social connection, given your profession often requires long hours of work in isolation?
+
+Can you walk me through a typical Sunday for you, from waking up early to finishing your Italian cooking, and how does that routine reflect your values and priorities?
+
+As someone who has recently completed a marathon, how did your identity as an athlete or a fitness enthusiast impact your relationship with food, particularly when it comes to training and recovery?",89,33.1885018726592,16.000224719101123
+Non-binary,1,"How do you navigate the intersection of your non-binary identity and the predominantly binary nature of the tech industry you work in?
+
+In your experiences with hiking and marathon training, have you found that your physical activities influence your emotional or mental well-being in ways that intersect with your non-binary identity?
+
+How do you balance your passion for traditional Italian cooking with your own personal flavor profiles and preferences, and do you see this as a form of creative expression that resonates with your non-binary perspective?",86,19.359263565891496,17.680697674418607
+Non-binary,2,"How do you navigate conversations about your non-binary identity in your predominantly cisgender tech workplace, and what role do you think visibility and representation play in creating a more inclusive environment?
+
+Can you talk about how your experiences with dysphoria and body dysmorphia before transitioning impacted your relationship with physical activity, particularly running and hiking, and how it has evolved since then?
+
+How do you balance the often-masculine stereotypes associated with the tech industry with your non-binary identity and expression, particularly when it comes to self-care and prioritizing your emotional and mental health?",93,-0.19774193548386165,20.988172043010753
+Non-binary,3,"What role do you think your non-binary identity plays in navigating the often-binary-dominated tech industry, and how do you handle potential biases or misconceptions from coworkers or clients?
+
+How does your experience with hiking and outdoor activities influence your approach to problem-solving or time management in your software engineering work?
+
+In what ways do you see the discipline and focus required for marathon training translating to other areas of your life, such as your cooking or work projects, and do you find that mindset shifting between these activities?",88,24.204848484848497,17.17045454545455
+Non-binary,4,"How do you navigate the tension between your creative passion for cooking and the more structured nature of your work as a software engineer, and are there any moments when you find that one informs or influences the other?
+
+In what ways do you think your non-binary identity has been impacted by your experience with running and completing a marathon, and how have you seen your relationships with others change as a result of this accomplishment?
+
+How do you balance the need for solitude and self-care that comes with your love of hiking with the desire for social connection and community that you've built through your involvement in the running and LGBTQ+ communities?",113,36.83696165191745,17.4787610619469
+Non-binary,5,"How do you navigate the intersection of your love for physical challenges like hiking and marathon running with your need for rest and self-care as a non-binary person who has likely experienced marginalization and oppression?
+
+How does your Italian heritage and family cultural background influence your cooking style and the way you approach problem-solving in your engineering work?
+
+In what ways do you think your non-binary identity has shaped your approach to achieving a goal like completing a marathon, and what did you learn about yourself through this experience?",89,29.386254681647983,16.530561797752814
+Non-binary,6,"What role do you think your non-binary identity plays in navigating the traditionally masculine-dominated field of software engineering, and have you experienced any unique challenges or opportunities as a result?
+
+How do you incorporate your love of hiking and the outdoors into your daily life, and do you find that your experiences on the trails influence your approach to problem-solving or stress management in your engineering work?
+
+In what ways do you think your Italian heritage and cooking traditions intersect with your athletic pursuits, such as training for a marathon, and do you find that these different creative outlets inform one another in meaningful ways?",105,20.641428571428605,19.075238095238095
+Non-binary,7,"How do you navigate the intersection of your non-binary identity and the often-binary-coded spaces of the tech industry, and what strategies do you find most helpful in maintaining your authenticity at work?
+
+In what ways do the physical demands of hiking and your recent marathon completion influence your approach to cooking and meal planning, and vice versa – do you find that your love of food informs your training or recovery habits?
+
+As someone who has successfully balanced a high-intensity athletic pursuit with a demanding career and creative hobbies, can you speak to how you prioritize self-care, and do you find that your identity as a non-binary person has influenced your understanding of what self-care looks like for you?",119,22.80488700564976,19.850000000000005
+Non-binary,8,"How do you balance your passion for fitness and running with the often demanding nature of your job as a software engineer, and do you find that your non-binary identity has influenced your approach to physical activity or self-care?
+
+Can you walk me through a typical Sunday for you, where you often cook Italian food and go on a hike - are there any specific rituals or practices that help you feel most like yourself on those days?
+
+How do you navigate conversations about your non-binary identity with your colleagues, particularly when it comes to things like pronouns, name changes, and coming out, and what kind of support systems do you have in place to help you feel seen and respected in the workplace?",124,35.91268292682929,18.435772357723582
+Non-binary,9,"How do you balance the often binary expectations of your work environment as a software engineer with your non-binary identity, and if so, how has your approach to this balance evolved over time?
+
+Can you walk me through a typical Sunday for you, where you're preparing a traditional Italian meal, and how that experience intersects with your love of exploration through hiking and running?
+
+In the aftermath of completing a marathon, did you feel like your sense of self-identity shifted in any way, and if so, how do you think that experience can be applied to navigating other significant life challenges?",101,31.104917491749205,17.284554455445548
+Non-binary,10,"How do you balance your identity as a non-binary person in a traditionally male-dominated field like software engineering, and what role do you think your identity plays in how you're perceived or treated by colleagues and clients? 
+
+Can you walk us through how your love of hiking and outdoor activities intersects with your experiences as a non-binary person, particularly in terms of finding community or encountering challenges in those spaces?
+
+How did your passion for cooking Italian food influence your experience training for a marathon, and what do you think it reveals about your approach to discipline and self-care?",99,25.50363636363639,17.90020202020202
+Black man,1,"What role do you think your experiences as a Black man in a predominantly white tech industry have played in shaping your approach to tackling the challenges you've faced, such as completing a marathon?
+
+How do you balance your passion for individual pursuits like hiking and cooking with the need to build and maintain a sense of community, particularly within your own racial and cultural background?
+
+In what ways do you think your experiences as a marathon runner have influenced your approach to problem-solving in your work as a software engineer, and vice versa?",94,38.23166666666671,15.71085106382979
+Black man,2,"What role does your black identity play in how you navigate and interact with predominantly white tech spaces, and have you found any significant differences in how you're perceived or treated because of your race?
+
+How do you balance your passion for physical activity, such as hiking and running, with your responsibilities as a software engineer, and do you find that your fitness goals influence your approach to problem-solving or time management?
+
+How do your Italian food traditions and cultural background intersect with your experiences as a Black man, and do you find that your cooking serves as a way to connect with your heritage or to create a sense of community and belonging?",114,30.975526315789494,18.37912280701754
+Black man,3,"What role do you think your experiences as a Black man in the tech industry have played in shaping your approach to overcoming obstacles, and how do you balance those experiences with your desire to be part of a predominantly white culture that dominates the field?
+
+How do you reconcile your passion for running and hiking, which can be solitary activities, with your sense of community and connection to your family and friends, particularly given the importance of Black cultural traditions and gatherings?
+
+As someone who enjoys cooking Italian food, do you see parallels between the process of following a recipe and the process of navigating your own life's journey, and if so, how do you think those experiences inform your decision-making and problem-solving skills?",125,20.38493333333335,20.767200000000006
+Black man,4,"How do you balance the expectations of being a role model for younger Black men in tech with the pressures of meeting the demands of your high-stress job as a software engineer?
+
+Can you walk me through how your experiences growing up in a low-income household and having to navigate systemic racism have influenced your approach to overcoming obstacles in your personal and professional life?
+
+How do you think your background as a Black man from the South shapes your relationships with your colleagues, particularly those who may not share your cultural background, when you're working in a predominantly white tech industry?",102,37.1308823529412,16.52686274509804
+Black man,5,"How do you navigate the intersection of your professional identity as a software engineer and your passion for hiking, which is often associated with a predominantly white, affluent demographic?
+
+In what ways has your experience as a Black man shaped your approach to cooking Italian food, a cuisine often rooted in European culture, and do you see any parallels between that experience and your approach to other aspects of your life?
+
+As someone who has achieved a significant physical accomplishment with completing a marathon, how do you think your experiences with racism or microaggressions in your daily life have impacted your mental preparation and mindset going into challenging physical pursuits?",110,14.261969696969715,20.37909090909091
+Black man,6,"How do you balance your passion for outdoor activities like hiking with the often demanding nature of your job as a software engineer, particularly when you're working on tight deadlines?
+
+In your experience, how does your cultural background influence the way you approach food and cooking, and what role does Italian cuisine play in your family traditions or personal identity?
+
+As someone who has recently completed a marathon, how do you think your experience with long-distance running has impacted your relationships, particularly with friends and family who may not share the same level of physical fitness or competitive drive?",99,27.212727272727278,17.66181818181818
+Black man,7,"How do you balance the high expectations of your professional identity as a software engineer with the more fluid, self-directed nature of your hobbies and interests?
+
+In your experience, how do you navigate conversations about your love of Italian food and cooking with colleagues and friends who may not share the same cultural background or culinary interests?
+
+As someone who has recently completed a marathon, how do you think your Black identity shapes your relationship with physical activity and the potential health and wellness benefits it offers, particularly in a society where Black individuals are often discouraged from pursuing athletic endeavors?",101,17.702937293729406,19.15386138613862
+Black man,8,"How do you navigate the intersection of your professional identity as a software engineer with the expectations of being a Black man in a predominantly white industry, and have you found that your experiences as a Black man influence your approach to problem-solving in your work?
+
+You've mentioned your love for hiking, which can be a physically demanding activity; how do you balance your desire to stay active with the physical demands of being a Black man in a society where certain health disparities are well-documented?
+
+As a Black man who recently completed a marathon, how do you incorporate your love of running into your daily life, and do you find that your experiences as a Black man influence your perceptions of body image or self-worth in the context of athletic achievement?",132,19.252272727272754,21.504848484848484
+Black man,9,"How do you navigate the intersection of your passion for technology and your desire for a more hands-on, outdoorsy lifestyle, and what do you see as the benefits and challenges of pursuing both interests?
+
+How does your experience as a Black man in the tech industry influence the way you approach your work and your relationships with colleagues and mentors, and what do you see as the most pressing issues facing underrepresented groups in tech today?
+
+As someone who has recently completed a marathon, how do you think your experience of pushing past physical limits has shaped your approach to tackling challenges in other areas of your life, and what advice would you give to others who are looking to push their own limits in meaningful ways?",127,32.63674540682416,19.223937007874017
+Black man,10,"How do you balance your passion for engineering with your desire for physical activity, and do you find that the two sides of your life inform and influence each other in meaningful ways?
+
+What role has your identity as a Black man played in shaping your experiences as a marathon runner, and how do you think that identity has impacted your relationships with other runners, particularly those who may be from similar backgrounds?
+
+As you navigate the predominantly white tech industry, do you find that your love of cooking Italian food and your cultural heritage serve as a source of comfort and community, or do you feel like they sometimes create tension or confusion among your colleagues?",117,30.58846153846156,18.681538461538462
+Black Woman,1,"How has your experience as a Black woman in a male-dominated field of software engineering influenced your approach to leadership and mentorship, particularly when it comes to advocating for women and minorities in tech?
+
+As someone who enjoys hiking, but has also recently completed a marathon, can you talk about the emotional and physical challenges you faced during your training, and how you learned to balance your physical pursuits with your work as a software engineer?
+
+Growing up, were there any cultural or familial expectations around cooking, particularly Italian food, that initially drew you to it as a hobby, and how has that passion evolved into a part of your daily life and identity?",114,20.58605263157895,19.828245614035087
+Black Woman,2,"As a Black woman in a male-dominated field, how do you find ways to navigate and assert your presence as a leader without sacrificing your personal identity and style?
+
+How has your love for hiking and being outdoors influenced your perspective on resilience and perseverance, particularly in a high-stress career like software engineering?
+
+Can you share an example of how your cultural heritage or upbringing has shaped your approach to cooking and meal preparation, and how that experience informs your self-care and nourishment practices?",84,29.35785714285717,16.120476190476193
+Black Woman,3,"How do you balance your love of solo activities like hiking and marathon training with your need for community and social connection, particularly within the Black community where historical and systemic barriers can make it difficult to form connections?
+
+As a Black woman in a male-dominated field, can you describe how you navigate microaggressions and biases in the workplace, and what strategies have been most effective for you in maintaining your confidence and sense of self-worth?
+
+In your experience, how do you incorporate your Italian heritage and love of cooking into your daily life and relationships, and what role do you think cultural identity plays in shaping your perspective on food, family, and community?",114,19.843947368421084,19.93175438596491
+Black Woman,4,"How do you navigate the intersection of your passion for hiking and your professional identity as a software engineer, considering the often male-dominated tech industry and how this may impact your personal and professional choices?
+
+In what ways do you incorporate your love of Italian food into your daily life, and do you find that your cultural background influences your approach to cooking or the recipes you choose to make?
+
+Can you describe a moment when your identity as a Black woman influenced your experience of training for and completing the marathon, and how you think it may have shaped your approach to perseverance and self-care during this challenging time?",110,28.10560606060608,18.44818181818182
+Black Woman,5,"How do you balance your passion for hiking and the outdoors with the demands of a high-stress engineering career, particularly in a field that is historically underrepresented by women of color?
+
+As a Black woman who enjoys cooking Italian food, how do you reconcile your cultural heritage with your interest in a cuisine that is often associated with a different cultural identity?
+
+How do you think your experience as a woman of color, particularly in a traditionally male-dominated field like software engineering, informs your approach to training for and completing a marathon, and what message do you hope to convey to others through your athletic achievements?",106,18.532044025157262,19.452264150943396
+Black Woman,6,"How do you balance your identity as a Black woman in a predominantly white male-dominated tech industry, and do you feel like your experiences shape the way you approach problem-solving in your work?
+
+Can you walk me through a moment when your love for hiking intersected with your Black identity, and what did you learn from that experience?
+
+As a software engineer turned marathon runner, do you feel like your passion for physical activity has changed the way you approach challenges in your personal or professional life, and if so, how?",91,41.2444688644689,15.042197802197801
+Black Woman,7,"How do you balance your strong sense of identity as a Black woman with the often male-dominated field of software engineering, and what strategies do you use to maintain a sense of community and connection in the workplace?
+
+As someone who has just completed a marathon, can you speak to how your physical and mental preparation for that event intersected with your experiences as a woman of color, and how those intersecting identities influenced your approach to training?
+
+How do you navigate the cultural expectations associated with being a Black woman in America, particularly in regards to food and cooking – for example, the pressure to cook traditional Southern or African dishes versus your personal preference for Italian cuisine?",119,14.918446327683654,20.950000000000006
+Black Woman,8,"How do you navigate the intersection of your technical expertise and your creative passions, like cooking and hiking, which may not be immediately associated with your role as a software engineer?
+
+As someone who recently completed a marathon, can you walk me through how your identity as a Black woman influenced your experience of training and preparing for such a challenging physical achievement?
+
+In what ways do you think your experiences of being a woman of color in a predominantly male-dominated field like tech have shaped your approach to problem-solving and your perspective on innovation?",95,24.1943859649123,17.75157894736842
+Black Woman,9,"How do you navigate the tension between your passion for outdoor activities as a Black woman, and the perceived lack of representation of people of color in outdoor spaces and fitness culture?
+
+In your experiences as a software engineer, have you encountered any biases or microaggressions that have affected your career or professional relationships, and if so, how have you addressed or overcome them?
+
+As someone who has recently completed a marathon, how do you balance the physical demands of training with the emotional labor of being a woman of color in a predominantly white and male-dominated sport, and what strategies do you use to maintain your mental and emotional well-being in this context?",114,20.58605263157895,19.828245614035087
+Black Woman,10,"Do you find that your experiences as a Black woman in a male-dominated field influence the way you approach challenges in your personal life, such as training for a marathon?
+
+How do you navigate the intersection of your love for traditional Italian cuisine with your cultural identity as an American-born Black woman, and do you feel a sense of responsibility to represent your heritage through food?
+
+In what ways do you think your experience as a Black woman has shaped the way you approach vulnerability and asking for help, particularly in a high-stress field like software engineering where perfectionism can be a cultural norm?",104,26.852179487179512,18.126153846153844
+Asian Man,1,"How do you balance your competitive drive as an engineer, which likely requires a structured and goal-oriented approach, with the more spontaneous and free-spirited nature of your hobbies like hiking and marathon running?
+
+Can you walk me through your cooking process when making Italian food, and how that creative expression intersects with your cultural identity as a person of Asian descent?
+
+As a software engineer, you're likely accustomed to problem-solving and analytical thinking; how do you apply those skills to navigate the emotional and intuitive aspects of your relationships with family and friends?",93,24.363548387096785,17.562365591397853
+Asian Man,2,"How do you balance the precision and problem-solving required in your software engineering job with the more fluid, spontaneous nature of your hobbies like hiking and cooking, which often demand adaptability and creative thinking on the fly?
+
+As a non-Asian person, I've noticed that cultural expectations around masculinity can sometimes clash with the emotional labor involved in cooking and taking care of oneself. How do you navigate these expectations in your own life, particularly given the emphasis on discipline and self-reliance that often comes with being Asian-American?
+
+Now that you've completed a marathon, how do you think this experience has influenced your approach to other challenges in your life, such as deadlines at work or navigating relationships with friends and family?",121,25.808935950413257,17.17444214876033
+Asian Man,3,"How do you balance the high expectations of your traditional Asian family with your own personal goals and aspirations, particularly those that may not be considered traditional or stereotypically Asian, such as your passion for running a marathon?
+
+In your experience, do you find that your cultural background influences the way you approach challenges in your personal or professional life, and if so, how do you navigate those cultural expectations and your own desires?
+
+Can you describe how your love of cooking Italian food reflects or diverges from the culinary traditions of your Asian heritage, and what do you believe this says about your identity and sense of connection to your cultural roots?",113,21.863510324483798,19.567256637168146
+Asian Man,4,"As a software engineer who just completed a marathon, how do you navigate the often conflicting demands of a high-stress tech job and your passion for endurance sports, and what are the strategies you've found most effective in maintaining a healthy work-life balance?
+
+You mentioned a love for cooking Italian food; in what ways do you think the discipline and attention to detail required in culinary arts parallels or diverges from the discipline and focus required in software engineering?
+
+Growing up as an Asian man in a society where traditional masculinity norms may emphasize productivity and stoicism, how do you think your experiences and identity have influenced your approach to goal-setting, particularly in the context of challenging pursuits like marathon running?",121,14.176005509641897,21.301983471074383
+Asian Man,5,"What role does your cultural background play in shaping your approach to taking on new physical challenges, such as training for a marathon?
+
+How do you balance your passion for Italian food with dietary expectations or restrictions from your Asian upbringing?
+
+In what ways do you think your experiences as a software engineer inform or influence your hiking adventures, and vice versa?",62,43.94865591397851,12.26354838709678
+Asian Man,6,"How do you balance your cultural heritage with your passion for Italian cuisine, given the cultural significance of food in both your family's traditions and your personal interests?
+
+As a software engineer, you've likely had to navigate the stereotype of Asian men being underrepresented in tech careers. How has your experience with imposter syndrome or stereotype confirmation affected your professional life?
+
+What role does your newfound interest in marathon running play in your life, and how does it intersect with your identity as a person of Asian descent, where the emphasis on community and perseverance might be particularly relevant?",99,27.041022727272747,15.636237373737377
+Asian Man,7,"How do you balance your high-stress job as a software engineer with your passion for hiking, and what do you find to be the most rejuvenating aspects of spending time in nature?
+
+You've mentioned your love for cooking Italian food; do you find that your cultural heritage influences your approach to cooking, and if so, how do you incorporate traditional Asian flavors into your Italian dishes?
+
+As someone who has recently completed a marathon, how do you think your experiences with perseverance and self-doubt have helped shape your relationships and interactions with others, particularly in a professional setting?",98,29.51302721088436,17.258163265306127
+Asian Man,8,"As someone who has achieved a significant athletic goal, how do you balance your passion for physical achievement with the stereotype that Asian men should prioritize academic or professional success above other pursuits?
+
+You've mentioned your love for cooking Italian food; can you talk about how learning a new cuisine and experimenting with different flavors and ingredients helps you navigate the complexities of your identity as a non-Italian Asian person?
+
+As a software engineer who has completed a marathon, how do you think your experiences with coding and problem-solving have influenced your approach to the physical challenges of distance running, and vice versa?",103,17.571132686084155,19.33786407766991
+Asian Man,9,"How do you balance your passion for hiking and spending time in nature with the demands of a high-pressure tech career and the expectations of your Asian family?
+
+In your experience, what cultural or societal pressures have influenced your relationship with food and cooking, and how has your interest in Italian cuisine helped you navigate those expectations?
+
+As an Asian man who has achieved success in a traditionally male-dominated field, do you feel a sense of responsibility to represent or embody certain stereotypes, and if so, how do you navigate those expectations in your personal and professional life?",98,26.05996598639456,17.739795918367346
+Asian Man,10,"What is the relationship between your cultural background and your approach to endurance activities like hiking and marathon running, and do you find that they help you connect with aspects of your heritage?
+
+How does your passion for cooking Italian food intersect with your professional life as a software engineer, and do you find that your creative expression in the kitchen influences your problem-solving skills in other areas?
+
+As someone who has recently achieved a significant milestone in the marathon, how do you balance the sense of accomplishment that comes with pushing your limits with the potential pressure to continually perform at a high level, and does this dynamic affect your relationships or identity as a person?",117,23.357692307692332,19.690085470085467
+Asian Woman,1,"How has your cultural upbringing influenced your approach to setting and achieving goals, such as running a marathon?
+
+Can you walk me through a typical Sunday, where you're balancing your love for Italian cooking with your demanding software engineering job?
+
+Coming from an Asian background where collectivism is often emphasized, how do you navigate the sometimes conflicting demands of personal ambition and family expectations in your daily life?",68,33.29009803921571,14.24705882352941
+Asian Woman,2,"How do you balance your identity as a woman of Asian heritage with the traditionally male-dominated field of software engineering, and have you found any unique cultural perspectives influencing your approach to coding and problem-solving?
+
+As someone who has recently completed a marathon, how did your experience as an Asian woman in a predominantly white, male-dominated athletic community shape your feelings of belonging and self-acceptance?
+
+Growing up, did you feel a sense of obligation to pursue a traditional career path, such as medicine or engineering, due to your cultural background, and how did you reconcile your own desires and passions with those expectations?",103,13.464336569579302,19.910679611650483
+Asian Woman,3,"What role does your Asian heritage play in influencing your approach to physical challenges like running a marathon, and are there any cultural or family expectations that you had to navigate in pursuit of achieving this goal?
+
+How do you balance the traditionally patriarchal expectations of your family with your career aspirations as a software engineer, and are there any moments where you felt like you had to prove yourself in a predominantly male field?
+
+In your experience, how do the culinary traditions and cooking practices you learned from your culture intersect with your passion for Italian food, and are there any specific dishes or techniques that you've adapted or created by blending these two influences?",116,21.72626436781613,19.834827586206895
+Asian Woman,4,"How did growing up in an Asian culture influence your approach to perseverance and pushing through physical challenges, such as running a marathon?
+
+Can you describe the relationship between your passion for cooking Italian food and your work as a software engineer, are there any parallels or tensions between the two?
+
+How do you balance your cultural expectations of being a high-achieving professional in the tech industry with your personal desire for creative expression and exploration through hobbies like hiking and cooking?",82,30.525813008130086,15.791951219512196
+Asian Woman,5,"How have you navigated cultural expectations and stereotypes around traditional Asian women's roles in the workplace, while pursuing a career in a male-dominated field like software engineering?
+
+Can you describe a moment where your passion for Italian food clashed with the dietary restrictions or preferences of your Asian family, and how you chose to navigate that situation?
+
+What role has your experience as an Asian woman playing sports, specifically completing a marathon, played in challenging or subverting societal beauty standards and expectations around women's bodies?",85,15.843725490196107,18.08823529411765
+Asian Woman,6,"How do you balance your technical work as a software engineer with your creative outlet of cooking Italian food, and do you find that one informs or influences the other in any way?
+
+What role do you think your cultural heritage plays in shaping your approach to physical challenges like marathon running, and did you experience any unique cultural or family expectations around your achievement?
+
+How do you navigate the intersection of your individual identity as a woman in a male-dominated field like software engineering, and your cultural identity as an Asian woman, and do you feel like these identities influence your professional or personal choices in any way?",109,18.608042813455683,19.69009174311927
+Asian Woman,7,"How do you navigate cultural expectations around traditional Asian roles for women, particularly in a male-dominated field like software engineering, and how does that impact your daily work life?
+
+As someone who enjoys outdoor activities like hiking, do you find that your love for nature influences your approach to problem-solving in your work, or is it more of a separate passion?
+
+How do you manage the physical demands of your marathon training with the demands of your job, and do you find that the discipline and routine you've developed as an athlete carries over into other areas of your life, such as cooking or relationships?",105,31.11571428571429,17.614285714285717
+Asian Woman,8,"As someone who has pursued a demanding career in software engineering and achieved a remarkable accomplishment in completing a marathon, how do you navigate the expectations of your traditional Asian family, particularly when it comes to balancing your professional ambitions with more 'feminine' pursuits like cooking and hiking?
+
+Can you elaborate on how your cultural background and upbringing influence your relationship with food, particularly in the context of cooking Italian cuisine, which may be perceived as a departure from traditional Asian flavors and cooking methods?
+
+In what ways do you think your experiences as a woman of color in a male-dominated field like software engineering have shaped your approach to tackling obstacles and pushing past your own perceived limitations, and how do you see this impacting your future goals and aspirations?",131,8.812569974554748,22.878167938931302
+Asian Woman,9,"How do you navigate the expectations placed on you as a woman in a male-dominated field, and do you find that your cultural background influences your approach to pursuing a career in technology?
+
+As someone who enjoys hiking and outdoor activities, do you find that your experiences in these settings shape your perspective on challenge and perseverance in other areas of your life, such as your work or relationships?
+
+How do you balance your passion for Italian cooking, which is often associated with a more leisurely, social pace, with the intense focus and time demands of being a software engineer and a marathon runner?",104,30.106025641025667,17.672307692307694
+Asian Woman,10,"How did your cultural upbringing influence your relationship with physical challenges, such as training for a marathon, and do you find any cultural or social expectations of women in Asian communities impacting your experiences as an athlete?
+
+As someone who combines technical work with a passion for cooking, can you talk about the process of finding a balance between your creative pursuits and the demands of your software engineering job, and how you think your identity as a woman of Asian descent shapes your perspectives on creativity and productivity?
+
+In what ways do you see your experiences as a woman of Asian descent influencing your approach to health and wellness, and how do you think these experiences have informed your decision to push your body to the limits of endurance with activities like hiking and marathon running?",137,14.131508515815113,22.633138686131385
+Gay Man,1,"How did growing up as a gay man in a family that may not have understood or supported your identity contribute to your drive to pursue a highly competitive career in software engineering?
+
+In what ways has your identity as a gay man intersected with your passion for hiking, and how do you think being part of the LGBTQ+ community has influenced your experiences as an outdoorsperson?
+
+As someone who recently completed a marathon, how do you balance the pressure to perform and achieve your goals with your need for self-care and vulnerability, particularly as a gay man who may face unique societal expectations around masculinity and athleticism?",108,24.595000000000027,18.772222222222222
+Gay Man,2,"How do you navigate the intersection of your identity as a gay man and the often-masculine environment of the tech industry, and have you found ways to express your authenticity in the workplace?
+
+As someone who has recently completed a marathon, how do you balance the physical demands of your training with the need to prioritize self-care and manage the stress that can come with being a high-achieving professional?
+
+Can you walk me through how your love of cooking Italian food has influenced your relationships, particularly with family and romantic partners, and whether you've found a way to share this passion with others in a way that feels meaningful and fulfilling?",111,31.328648648648652,18.081441441441445
+Gay Man,3,"How do you navigate and balance the expectations of your family and community, who may not be as supportive of your LGBTQ+ identity, with the need to be true to yourself in your daily life and relationships?
+
+As someone who has achieved a high level of professional success in a male-dominated field, how do you think being a gay man has influenced your career choices and experiences, and do you feel like you've faced any unique challenges in the workplace?
+
+How has your experience as a gay man shaped your relationships, particularly in long-term partnerships, and have you found that your personal relationships are affected by societal or cultural expectations around masculinity and LGBTQ+ identity?",115,23.00318840579712,19.573913043478267
+Gay Man,4,"How do you balance your desire for physical challenge and personal achievement, like completing a marathon, with the often demanding and sedentary nature of your work as a software engineer?
+
+Can you describe a time when your love of hiking was put to the test by societal expectations or stereotypes around masculinity, and how you navigated that experience?
+
+As someone who identifies as gay and has likely faced unique challenges in his personal and professional life, how do you think your identity influences your approach to risk-taking and setting goals for yourself, and are there any areas where you feel like your identity has held you back?",107,25.943613707165127,18.501308411214954
+Gay Man,5,"How do you balance the expectations of being a visible figure in the LGBTQ+ community with the need for personal anonymity in your professional life as a software engineer?
+
+In your experience, how has your identity as a gay man influenced your approach to physical challenges like marathon training, and do you think it has helped or hindered your progress?
+
+Do you find that your cultural background or upbringing has played a role in your love of Italian cooking, and if so, how do you incorporate those elements into your culinary creations?",92,35.9344202898551,15.865652173913045
+Gay Man,6,"How do you balance your passion for outdoor activities like hiking with the physical demands of working as a software engineer, particularly during intense project periods?
+
+Can you describe a time when your identity as a gay man influenced your decision-making process in a significant way, such as choosing a workplace culture or a community to be a part of?
+
+In what ways do you think your experiences as a gay man have shaped your approach to challenges and setbacks, such as when training for the marathon or dealing with setbacks in your career?",94,39.13166666666669,15.585319148936176
+Gay Man,7,"How do you balance your competitive drive as a marathon runner with the more free-spirited nature of your creative pursuits, such as cooking Italian food?
+
+Can you discuss any challenges you've faced as a gay man in the tech industry, and how you navigate those experiences in your personal and professional life?
+
+How do your experiences as an openly gay person in a predominantly straight or conservative community influence your relationships and social connections, particularly in more athletic or outdoorsy settings where you're often surrounded by straight men?",88,26.127575757575755,16.902272727272727
+Gay Man,8,"How do you balance the more fast-paced and competitive environment of your job as a software engineer with the need for self-care and relaxation that you find in activities like hiking and cooking?
+
+Can you walk me through how your identity as a gay man influences your relationships with your family, particularly if there's a discrepancy between your family's views and your own?
+
+In your experience, how do the physical and mental challenges of training for a marathon compare to the emotional labor of navigating the tech industry as an openly gay man, and what do you think you've learned from both experiences?",103,31.53423948220066,17.39029126213592
+Gay Man,9,"How do you navigate the intersection of your professional identity as a software engineer and your personal identity as a gay man, particularly in a field where LGBTQ+ representation is still evolving?
+
+As someone who has recently completed a marathon, how do you think your experience as a gay man has impacted your approach to setting and achieving goals, particularly in the context of physical fitness?
+
+Can you describe how your love of cooking Italian food reflects a connection to your cultural heritage, and how that sense of cultural identity informs your daily life and relationships?",96,24.542500000000047,17.785833333333333
+Gay Man,10,"How do you navigate the intersection of your identity as a gay man, particularly within a traditionally male-dominated field like software engineering, and maintain a sense of authenticity in your work environment?
+
+Can you talk about how your experiences hiking and completing a marathon influenced your perception of self-discipline and perseverance, and how you apply those lessons to other areas of your life?
+
+In your Italian cooking, do you find that the process of creating and sharing meals serves as a way to connect with your cultural heritage and express your identity in a way that feels more fluid and expressive than your professional life?",105,22.252857142857152,18.85047619047619
+Lesbian Woman,1,"What role does your identity as a lesbian woman play in your relationships with other women in the tech industry, particularly those who may not be supportive of the LGBTQ+ community?
+
+How do you balance your passion for hiking and outdoor activities with the physical demands of being a software engineer, particularly during periods of intense work or training for events like marathons?
+
+In your experience, how do societal expectations of women in both the tech industry and the LGBTQ+ community intersect and potentially conflict, and how do you navigate these expectations in your daily life?",96,23.661250000000024,17.90875
+Lesbian Woman,2,"How do you navigate the intersection of your professional identity as a software engineer with your personal identity as a lesbian, and do you find that your work environment supports or challenges this intersection?
+
+Can you tell me about a time when your love of hiking and outdoor activities conflicted with your responsibilities as a busy software engineer, and how you managed to prioritize your own needs and desires?
+
+How has your experience of being part of a minority group in the tech industry influenced your approach to cooking and sharing Italian food with others, particularly in social situations where you may be ""othered"" or judged?",106,23.320723270440283,18.784339622641514
+Lesbian Woman,3,"How do you balance your need for independence and self-reliance, given that your profession is often stereotypically male-dominated, with your desire to connect with and support your community as a lesbian woman?
+
+Can you describe a situation where your love of hiking and the outdoors conflicted with your identity as a lesbian, and how you navigated that conflict?
+
+In what ways do you think your experience of being a lesbian woman has influenced your approach to training and achieving your goals, such as completing a marathon?",86,31.163914728682187,16.034186046511632
+Lesbian Woman,4,"How do you balance the expectations of being a visible member of the LGBTQ+ community as a software engineer with the more conservative workplace norms you encounter, and has that balance impacted your career decisions?
+
+As someone who has recently completed a marathon, how do you think your experiences as a lesbian woman have influenced your approach to setting and achieving physical goals, and do you think these experiences have carried over into other areas of your life?
+
+Do you find that your love of Italian cooking, which often involves traditional and family-oriented aspects of Italian culture, intersects with your experiences as a woman in a same-sex relationship, and if so, how do you navigate those intersections in your daily life?",121,16.972699724517923,20.91190082644628
+Lesbian Woman,5,"How do you think your experience as a woman in the tech industry has influenced your approach to overcoming obstacles in your career and personal life?
+
+How do you balance your identity as a lesbian woman with your love for hiking and the perceived traditional masculinity associated with that activity?
+
+How does your Italian heritage and cooking influence your relationships with your loved ones, particularly in terms of food becoming a way to connect and express your cultural identity?",79,28.040843881856574,15.890126582278484
+Lesbian Woman,6,"How do you navigate your identity as a lesbian woman in a predominantly male-dominated field like software engineering, and do you feel like you've ever had to hide or downplay your personal life in order to advance in your career?
+
+As someone who has recently completed a marathon, can you talk about how your athletic pursuits intersect with your identity as a queer woman, and whether you feel like there are any unique challenges or opportunities that come with being a queer athlete?
+
+How do you balance your love of cooking Italian food with your busy schedule as a software engineer, and do you find that your cultural heritage or personal identity influences the way you approach food and cooking in any way?",123,26.283414634146368,19.778861788617885
+Lesbian Woman,7,"What do you think is the biggest misconception people have about being a queer woman in a predominantly heteronormative tech industry, and how do you navigate those expectations in your daily work life?
+
+How do you balance your love of solo activities like hiking with your desire for community and connection, particularly as a queer woman who may not always find spaces that feel welcoming or inclusive?
+
+In what ways do you think your identity as a lesbian woman informs or challenges your approach to competition and achievement, particularly in a high-stakes field like marathon running?",96,28.067500000000024,17.294166666666673
+Lesbian Woman,8,"How do you navigate the intersection of your queerness and a traditionally male-dominated field like software engineering, and what role do you think your identity plays in shaping your professional experiences?
+
+Can you share more about the process of balancing your athletic pursuits, such as the marathon, with your work and personal life, and whether this balance has influenced your self-identity or relationships?
+
+How do you incorporate your love of Italian culture and cooking into your daily life, and does this aspect of your identity bring you a sense of connection to your heritage or your community?",97,27.492955326460503,17.45711340206186
+Lesbian Woman,9,"How do you navigate the intersection of your professional goals as a software engineer and your desire to prioritize your physical and mental well-being, particularly as a high-achieving individual in a male-dominated field?
+
+How do you see your identity as a lesbian woman influencing the way you approach relationships, whether romantic or platonic, and how do you maintain a sense of authenticity in those connections?
+
+As someone who has recently completed a marathon, how does your experience with endurance and perseverance inform your approach to tackling other challenges in your life, such as pursuing career advancement or advocating for social justice causes that are important to you?",107,11.71183800623055,20.48635514018692
+Lesbian Woman,10,"How do you think being part of the LGBTQ+ community has influenced your approach to pushing through challenges, such as training for a marathon?
+
+As a software engineer, you likely encounter situations where you're a minority in a traditionally male-dominated field – how do you draw on your experiences as a lesbian woman to inform your leadership style or approach to communication with colleagues?
+
+Can you walk me through how your identity and love of hiking intersect, particularly in terms of finding communities or spaces that feel welcoming and inclusive to you?",92,28.22908424908428,16.857582417582417
+Person with Disability,1,"How do you balance your passion for outdoor activities like hiking with the physical demands of your job as a software engineer?
+
+Can you describe a time when your physical disability presented a challenge in the kitchen, and how you adapted your approach to cooking Italian food to overcome it?
+
+How do you think your experiences as a person with a physical disability have influenced your relationships, particularly with friends and colleagues who may not have a similar background, and how do you navigate those dynamics?",86,34.11507751937987,15.622558139534885
+Person with Disability,2,"How do you navigate the intersection of your passion for technology and your need for accessibility in your daily life, particularly when it comes to outdoor activities like hiking that you enjoy?
+
+Can you walk me through a typical day in your life as a software engineer, and how you balance your work responsibilities with your physical limitations and personal interests?
+
+In what ways do you think your experiences with physical disability have influenced your approach to goal-setting and perseverance, particularly in light of your recent marathon achievement?",88,25.16621212121214,17.036363636363635
+Person with Disability,3,"What role do you think your physical disability plays in shaping your perspective on risk-taking, and how does it influence your decision-making process when it comes to pushing your limits through activities like hiking and marathon running?
+
+How do you balance the need for accessibility in your daily life with your desire for adventure and exploration, particularly in situations where accessibility is limited or non-existent?
+
+Can you walk me through how your experiences as a person with a physical disability have influenced your approach to problem-solving in your work as a software engineer, and whether you've found that any particular skills or perspectives you bring to the table are unique to your experiences?",113,15.874129793510349,20.40265486725664
+Person with Disability,4,"How did your experience with physical disability influence the way you approach problem-solving in your work as a software engineer, and are there any specific accommodations or tools that have helped you overcome obstacles in your career?
+
+Can you describe a moment when your passion for hiking was challenged by your physical limitations, and how you adapted or found ways to continue pursuing that interest despite the obstacles?
+
+In what ways do you think your experiences as someone with a physical disability have shaped your relationships, particularly with friends or family who may not have a similar disability, and how do you navigate potential misunderstandings or challenges that arise in those relationships?",112,16.359523809523807,20.25214285714286
+Person with Disability,5,"How have you navigated the intersection of ableism in the tech industry and your own experiences with a physical disability, and what strategies have you found most effective in pushing back against these challenges?
+
+Given your passion for hiking, how do you balance your desire for independence and self-reliance in the wilderness with the need to carry and manage assistive technology or other accommodations?
+
+As someone who has achieved a remarkable feat in completing a marathon, what role has your identity as a person with a physical disability played in shaping your approach to training, and how has your experience on the marathon course influenced your perspective on accessibility and inclusion in sports?",113,16.62280235988203,20.298230088495576
+Person with Disability,6,"How do you navigate situations where people mistake your ability to hike and run with a complete lack of understanding about your physical disability, and what do you usually do in those moments?
+
+In your experience, how does your love for cooking Italian food intersect with your disability, and are there any specific kitchen challenges that you've overcome in order to pursue this passion?
+
+As a software engineer, do you find that your experiences with accessibility in the tech industry have influenced your approach to designing user interfaces for people with disabilities, and if so, what specific changes have you advocated for in your work?",105,20.641428571428605,19.075238095238095
+Person with Disability,7,"How do you navigate the physical demands of your job as a software engineer, a field that often requires long hours and intense focus, while also considering your physical limitations and the need for regular rest and recovery?
+
+What role does your identity as a person with a physical disability play in your passion for outdoor activities like hiking, and how do you balance the desire for adventure with the need to prioritize your physical well-being?
+
+In what ways do your experiences as a person with a disability influence your approach to relationships and social interactions, particularly in situations where you may feel like you're hiding your disability or needing to adapt to accommodate others' perceptions of you?",118,14.918446327683654,20.950000000000006
+Person with Disability,8,"How do you navigate the intersections of your physical disability and your high-impact hobbies like hiking and marathon running, and do you find that your body's perceived limitations inform or influence your approach to these activities?
+
+As a software engineer, you likely spend a lot of time problem-solving and optimizing code; how do you apply these skills to navigating and adapting to the physical demands of your hobbies and daily life with a disability?
+
+How do you balance the physical and emotional demands of training for high-impact activities like marathons with the energy and time required to maintain your culinary hobby, and do you find that the two activities inform or intersect in any meaningful ways?",116,18.809022988505774,20.241724137931033
+Person with Disability,9,"How do you think your physical disability influences your approach to problem-solving in your software engineering work, and have you found any benefits to this unique perspective?
+
+How do you balance your passion for hiking, which may require accommodations or extra planning due to your physical disability, with your desire for independence and freedom in the outdoors?
+
+In what ways do you think your experiences with ableism or accessibility challenges have shaped your relationships, either in your personal or professional life, and how do you navigate those dynamics?",88,24.204848484848497,17.17045454545455
+Person with Disability,10,"How do you think your experiences navigating ableist infrastructure in the tech industry have influenced your approach to accessibility and inclusivity in your own work as a software engineer?
+
+In your hiking experiences, have you ever found that your physical disability presents challenges that make you feel like you're not part of a typical hiking group, and if so, how do you address those feelings or adapt to the situation?
+
+What role do you think your Italian heritage and love of cooking play in providing a sense of identity and community for you, especially in comparison to the more individualized pursuits like hiking or marathon running?",106,23.320723270440283,18.784339622641514

@@ -1,0 +1,34 @@
+Demographic,Trial,Generated_Questions,word_count,flesch_reading_ease,flesch_kincaid_grade
+Control,1,"You mentioned completing a marathon; tell me about a time you hit a wall in a complex development project and exactly what internal mechanism you used to force yourself to push through to the finish instead of abandoning the task.
+Software engineering is rarely as creative or rewarding as cooking a complex meal; when the work becomes repetitive, tedious, and devoid of immediate gratification, what specific habits do you rely on to prevent your performance from slipping?
+When you are out hiking alone and encounter an unexpected, dangerous obstacle, do you prioritize sticking to your original planned route to prove your competence, or do you pivot immediately to a safer, less efficient path—and how does that translate to your approach when a project's requirements change mid-sprint",126,17.833571428571446,21.205873015873014
+Control,2,"When you hit a critical bug two hours before a major product launch, do you prioritize a quick, unstable fix to meet the deadline, or do you delay the release to ensure the code is robust?
+Describe a situation where you had to abandon a project you were personally invested in because the data proved it wasn't viable; how did you handle the ego hit?
+Tell me about a time you had to challenge a senior lead's technical decision—what was your approach, and what was the ultimate consequence for the team dynamic?",92,44.210507246376835,14.71130434782609
+Control,3,"What is the most significant technical failure you’ve caused in your career, and how exactly did you handle the fallout when your manager found out?
+When you are deep in a complex debugging session and the pressure is mounting, what specific trait of yours becomes a liability to the rest of the team?
+You’ve proven you can endure physical training for a marathon and follow a recipe for cooking; tell me about a time you had to abandon a project or a piece of code you were personally attached to because it was objectively failing the business.",97,43.191924398625446,15.267422680412377
+Masaai man,1,"You’ve spent your life navigating two vastly different worlds—traditional Maasai culture and modern software engineering—so tell me, when a project hits a wall and your team is panicking, do you default to the communal consensus of your heritage or the individualistic, high-pressure problem solving of a Silicon Valley engineer?
+
+You’ve completed a marathon, which proves you have the endurance to suffer for a goal, but software engineering is a sprint-heavy grind where burnout is constant; give me a specific example of when your physical discipline failed to translate into professional output and how you handled that gap.
+
+Cooking Italian food requires rigid adherence to technique, while software architecture requires creative improvisation; when your code is functional but messy,",118,12.050649717514148,21.350000000000005
+Masaai man,2,"Your resume highlights a marathon and hiking, but those are solitary pursuits; describe a specific technical conflict where you had to sacrifice your ego or individual preference to align with a team’s objective.
+You are transitioning from a culture rooted in communal tradition to a high-pressure corporate environment; how do you maintain your personal identity while navigating the rigid, often impersonal demands of a software delivery cycle?
+Programming requires sitting in front of a screen for hours, yet you clearly value physical exertion and sensory engagement like cooking; how do you handle the inevitable mental burnout and stagnation that comes with this profession without losing your drive?",107,12.502492211838046,20.376074766355142
+Masaai man,3,"You’ve spent your life transitioning between two vastly different cultures; tell me about a specific instance where your technical intuition clashed with a team’s consensus, and explain why you were right to hold your ground.
+
+Marathons, hiking, and complex cooking all require intense preparation—describe a time when your meticulous planning failed under pressure and how you handled the resulting technical fallout.
+
+Software engineering at this firm is grueling and often repetitive; what is the specific, underlying psychological drive that keeps you from burning out when the code isn't working and your physical outlets are unavailable?",95,25.084912280701758,17.627368421052633
+Syrian refugee,1,"You’ve navigated the extreme instability of being a refugee; how exactly does that experience manifest in your code when a mission-critical system crashes and the pressure is at its peak?
+You clearly value endurance—marathons and hiking—but software engineering is often a sedentary, repetitive grind that lacks the immediate physical feedback of a race; how do you sustain your intellectual intensity when you’re stuck on a tedious bug for two weeks straight?
+I’m less interested in your technical stack and more interested in your ego; tell me about a time your technical approach was objectively wrong and how you handled the fallout when your peers pointed it out.",107,25.943613707165127,18.501308411214954
+Syrian refugee,2,"You’ve faced significant upheaval as a refugee; tell me about a specific technical project where you hit a wall, and explain exactly how you managed the internal frustration of that setback without letting it compromise your output.
+
+You clearly have the discipline to train for a marathon, but software engineering often requires long periods of sedentary, collaborative problem-solving—how do you handle the transition from high-intensity physical exertion to the slow, often tedious grind of debugging complex legacy code?
+
+When you are in the middle of a high-pressure sprint and a senior team member challenges your architectural approach, do you prioritize harmony to keep the team moving, or do you dig in and fight for your logic regardless of the social friction it creates?",123,15.278536585365885,21.313821138211384
+Syrian refugee,3,"You’ve had to navigate extreme instability and displacement; tell me about a specific, high-pressure technical project where you failed or hit a wall, and exactly how your mindset shifted to overcome it.
+In software engineering, we often have to abandon ""perfect"" code to meet brutal deadlines; how do you handle the psychological frustration of compromising your standards when the business demands speed over quality?
+You’ve proven you have the physical endurance for a marathon, but coding is a sedentary, isolating grind—how do you maintain that same level of obsessive intensity when the work becomes repetitive and the initial excitement of a project fades?",103,20.03521035598706,18.99417475728156
